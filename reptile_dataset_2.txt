@@ -1,0 +1,349 @@
+__label__define 크레스티드 게코 정의
+__label__define 크레 정의
+__label__define 게코 정의
+__label__define 크레 뜻
+__label__origin 크레스티드 게코 유래
+__label__origin 크레 유래
+__label__origin 게코 유래
+__label__feeding_condition 크레 사육현황
+__label__feeding_condition 크레 미래 전망
+__label__feeding_condition 크레스티드 게코 미래 전망
+__label__feeding_condition 크레스티드 게코 사육현황
+__label__body_structure 크레스티드 게코 신체구조
+__label__body_structure 크레 신체구조
+__label__body_structure 크레 신체구조 특성
+__label__head 크레 머리
+__label__head 크레 머리 구조
+__label__head 크레스티드 게코 머리 구조
+__label__comb 크레 돌기
+__label__comb 크레 볏
+__label__comb 크레 등
+__label__comb 크레스티드 게코 돌기
+__label__comb 크레스티드 게코 등
+__label__comb 크레스티드 게코 볏
+__label__eyes 크레 눈
+__label__eyes 크레 눈 구조
+__label__ear 크레 귀
+__label__ear 크레 귀 구조
+__label__lips 크레 입
+__label__lips 크레 입 구조
+__label__lips 크레 혀
+__label__lips 크레 혀 구조
+__label__leg 크레 다리
+__label__leg 크리 다리 구조
+__label__foot 크레 발
+__label__foot 크레 발가락
+__label__foot 크레 발 구조
+__label__foot 크레 발가락 구조
+__label__tail 크레 꼬리
+__label__tail 크레 꼬리 구조
+__label__tail 크레스티드 게코 꼬리
+__label__cloaca 크레스티드 게코 배설기관에 대해서 설명해주세요.
+__label__cloaca 크레스티드 게코 배설기관이 어떻게 생겼는지 알려줘
+__label__cloaca 크레스티드 게코 배설기관이 어떻게 생겼니?
+__label__cloaca 크레스티드 게코 배설기관의 구조에 대해서 설명해줘
+__label__cloaca 크레스티드 게코 배설기관은 어떻게 생겼을까요?
+__label__cloaca 크레스티드 게코 배설기관이 궁금해
+__label__cloaca 크레의 배설기관에 대해서 설명해주세요.
+__label__cloaca 크레의 배설기관이 어떻게 생겼는지 알려줘
+__label__cloaca 크레의 배설기관이 어떻게 생겼니?
+__label__cloaca 크레의 배설기관의 구조에 대해서 설명해줘
+__label__cloaca 크레의 배설기관은 어떻게 생겼을까요?
+__label__cloaca 크레의 배설기관이 궁금해
+__label__cloaca 크레 배설기관
+__label__skin 크레스티드 게코 피부에 대해서 설명해주세요.
+__label__skin 크레스티드 게코 피부가 어떻게 생겼는지 알려줘
+__label__skin 크레스티드 게코 피부가 어떻게 생겼니?
+__label__skin 크레스티드 게코 피부의 구조에 대해서 설명해줘
+__label__skin 크레스티드 게코 피부는 어떻게 생겼을까요?
+__label__skin 크레스티드 게코 피부가 궁금해
+__label__skin 크레의 피부에 대해서 설명해주세요.
+__label__skin 크레의 피부가 어떻게 생겼는지 알려줘
+__label__skin 크레의 피부가 어떻게 생겼니?
+__label__skin 크레의 피부의 구조에 대해서 설명해줘
+__label__skin 크레의 피부는 어떻게 생겼을까요?
+__label__skin 크레의 피부가 궁금해
+__label__skin 크레 피부
+__label__skin 크레 피부 구조
+__label__skin 크레 스킨
+__label__skin 크레 스킨 구조
+__label__in_organ 크레스티드 게코 내부장기에 대해서 설명해주세요.
+__label__in_organ 크레스티드 게코 내부장기가 어떻게 생겼는지 알려줘
+__label__in_organ 크레스티드 게코 내부장기는 어떻게 생겼니?
+__label__in_organ 크레스티드 게코 내부장기의 구조에 대해서 설명해줘
+__label__in_organ 크레스티드 게코 내부장기는 어떻게 생겼을까요?
+__label__in_organ 크레스티드 게코 내부장기가 궁금해
+__label__in_organ 크레의 내부장기에 대해서 설명해주세요.
+__label__in_organ 크레의 내부장기가 어떻게 생겼는지 알려줘
+__label__in_organ 크레의 내부장기는 어떻게 생겼니?
+__label__in_organ 크레의 내부장기의 구조에 대해서 설명해줘
+__label__in_organ 크레의 내부장기는 어떻게 생겼을까요?
+__label__in_organ 크레의 내부장기가 궁금해
+__label__in_organ 크레 내부장기 
+__label__in_organ 크레 장기 
+__label__sense 크레스티드 게코 감각에 대해서 설명해주세요.
+__label__sense 크레스티드 게코 감각이 어떻게 생겼는지 알려줘
+__label__sense 크레스티드 게코 감각은 어떻게 생겼니?
+__label__sense 크레스티드 게코 감각의 구조에 대해서 설명해줘
+__label__sense 크레스티드 게코 감각은 어떻게 생겼을까요?
+__label__sense 크레스티드 게코 감각이 궁금해
+__label__jump_ability 크레스티드 게코 점프력에 대해서 설명해주세요.
+__label__jump_ability 크레스티드 게코 점프력은 어떤지 알려줘
+__label__jump_ability 크레스티드 게코 점프력은 어느정도 인가요?
+__label__jump_ability 크레스티드 게코 점프 실력이 어때?
+__label__jump_ability 크레스티드 게코 점프력은 어디서 오는 걸까?
+__label__jump_ability 크레스티드 게코 점프력이 궁금해
+__label__habitat 크레 서식지
+__label__habitat 크레스티드 게코 서식지
+__label__size_life 크레 크기와 수명
+__label__size_life 크레 크기
+__label__size_life 크레 수명
+__label__sex 크레 성별
+__label__sex 크레스티드 게코 성별
+__label__breeding 크레 번식
+__label__breeding 크레스티드 게코 번식
+__label__life_cycle 크레스티드 게코 라이프 사이클에 대해서 설명해줘
+__label__life_cycle 크레스티드 게코는 어떤 일생을 살아?
+__label__life_cycle 크레스티드 게코 라이프는 어떻게 될까?
+__label__life_cycle 크레스티드 게코 생명 주기에 대해서 알려줘
+__label__life_cycle 크레스티드 게코 생명은 언제까지 이어지는 거야?
+__label__life_cycle 크레스티드 게코 일생에 대해 설명해줘
+__label__patten 크레 모프 패턴
+__label__patten 크레 색상 패턴 특징
+__label__patten 크레 색상
+__label__color 색상의 변화에 대해서 알려줄래?
+__label__color 색상 변화에 대해 알려줄래?
+__label__color 크레스티드 게코 색상 변화가 어떻게 되는거야?
+__label__color 크레스티드 게코 몸의 색상이 어떻게 바뀌어?
+__label__color 크레스티드 게코 몸의 색상 변화에 대해서 알려줘
+__label__ecdysis 크레 탈피
+__label__ecdysis 크레 탈비 방법
+__label__ecdysis 크레스티드 게코 탈피
+__label__ecdysis 크레스티드 게코 탈피 방법
+__label__defense 크레 방어전략
+__label__defense 크레 방어
+__label__defense 크레 전략
+__label__advantage 크레 장점
+__label__advantage 크레 사육 장점
+__label__misunderstanding 크레스티드 게코 오해에 대해서 설명해줘
+__label__misunderstanding 크레스티드 게코에 대한 오해가 있니?
+__label__misunderstanding 크레스티드 게코를 사람들이 오해하고 있는게 뭘까?
+__label__misunderstanding 크레스티드 게코에 대해서 잘 모르는 부분이 뭐라고 생각해?
+__label__handball 크레 핸들링
+__label__handball 크레 핸들링 방법
+__label__farm 크레 사육장
+__label__farm 크레 사육장 추천
+__label__farm 크레 사육장 크기 
+__label__farm 크레 사육환경
+__label__enshrining_together 크레 다른 종과 합사
+__label__enshrining_together 크레 합사
+__label__enshrining_together 크레 여러마리 한번에 키우기
+__label__temperature 크레 온도
+__label__temperature 크레 온도 관리
+__label__temperature 크레 평균 온도
+__label__temperature 크레 겨울철 
+__label__temperature 크레 여름철
+__label__humidity 크레 습도
+__label__humidity 크레 습도 관리
+__label__humidity 크레 적정 습도
+__label__lighting 크레 조명 
+__label__lighting 크레 조명 관리
+__label__cleaning 크레 집 청소
+__label__cleaning 크레 사육장 청소
+__label__cleaning 크레 청소
+__label__cleaning 크레 청소 주기
+__label__food 크레 먹이
+__label__food 크레 먹이 급여 
+__label__food 크레 영양
+__label__food 크레 영양관리
+__label__food 크레 밥
+__label__cricket_food 크레 귀뚜라미
+__label__cricket_food 귀뚜라미 급여
+__label__cricket_manage 귀뚜라미 관리
+__label__cricket_manage 귀뚜라미 키우기
+__label__food_number 크레 먹이 급여 횟수
+__label__food_number 크레 먹이 횟수
+__label__food_number 크레 먹이 양
+__label__feed_moisture 크레 수분 공급
+__label__feed_moisture 크레 수분
+__label__feed_moisture 크레 물
+__label__feed_moisture 크레 물 주기
+__label__disease 크레스티드 게코가 아파요.
+__label__disease 크레스티드 게코가 아픈데 어떻게해야 하나요?
+__label__disease 우리 도마뱀이 아픈거 같아요.
+__label__disease 크레스티드 게코가 질병에 노출 된거 같아요.
+__label__disease 우리 도마뱀이 질병에 노출 된거 같아요.
+__label__disease 크레스티드 게코 질병 징후에 대해서 설명해주세요.
+__label__disease 크레스티드 게코 질병 징후는 어떤게 있나요?
+__label__sick 우리 도마뱀이 아픈데 관리법을 알려주세요.
+__label__sick 질병에 노출되었을때 관리 방법 알려주세요.
+__label__sick 크레스티드 게코 질병에 노출되었을때 방법이 있나요?
+__label__morph_define 크레 모프 정의
+__label__morph_define 크레 모프 뜻
+__label__morph_define 크레 모프
+__label__morph_blood 모프와 혈통의 차이가 뭐에요?
+__label__morph_blood 모프와 혈통의 관계에 대해서 설명해주세요.
+__label__morph_blood 모프와 혈통 사이의 관계에 대해서 알려주세요.
+__label__morph_blood 브리딩하면서 같은 혈통으로 진행하면 모프가 같아지나요?
+__label__buckskin 벅스킨이 뭔가요?
+__label__buckskin 벅스킨이 무슨 모프 인가요?
+__label__buckskin 벅스킨 특징이 뭐에요?
+__label__brown 브라운 모프가 뭔가요?
+__label__brown 브라운이 무슨 모프 인가요?
+__label__brown 브라운 특징이 뭐에요?
+__label__red 레드 색 모프가 뭔가요?
+__label__red 레드 색 모프는 무슨 모프 인가요?
+__label__red 레드 색 도마뱀의 특징이 뭐에요?
+__label__orange 오렌지 색 모프가 뭔가요?
+__label__orange 오렌지 색 모프는 무슨 모프 인가요?
+__label__orange 오렌지 색 도마뱀의 특징이 뭐에요?
+__label__yellow 노랑색 모프가 뭔가요?
+__label__yellow 노랑색 모프는 무슨 모프 인가요?
+__label__yellow 노랑색 도마뱀의 특징이 뭐에요?
+__label__yellow 옐로우 색 모프가 뭔가요?
+__label__yellow 옐로우 색 모프는 무슨 모프 인가요?
+__label__yellow 옐로우 색 도마뱀의 특징이 뭐에요?
+__label__olive 올리브 모프가 뭔가요?
+__label__olive 올리브 모프는 무슨 모프 인가요?
+__label__olive 올리브 도마뱀의 특징이 뭐에요?
+__label__lavender 라벤더 모프가 뭔가요?
+__label__lavender 라벤더 모프는 무슨 모프 인가요?
+__label__lavender 라벤더 도마뱀의 특징이 뭐에요?
+__label__patternless 패턴리스 모프가 뭔가요?
+__label__patternless 패턴리스 모프는 무슨 모프 인가요?
+__label__patternless 패턴리스 도마뱀의 특징이 뭐에요?
+__label__patternless 솔리드 모프가 뭔가요?
+__label__patternless 솔리드 모프는 무슨 모프 인가요?
+__label__patternless 솔리드 도마뱀의 특징이 뭐에요?
+__label__bicolor 바이컬러 모프가 뭔가요?
+__label__bicolor 바이컬러 모프는 무슨 모프 인가요?
+__label__bicolor 바이컬러 도마뱀의 특징이 뭐에요?
+__label__flame 플레임 모프가 뭔가요?
+__label__flame 플레임 모프는 무슨 모프 인가요?
+__label__flame 플레임 도마뱀의 특징이 뭐에요?
+__label__flame 파이어 모프가 뭔가요?
+__label__flame 파이어 모프는 무슨 모프 인가요?
+__label__flame 파이어 도마뱀의 특징이 뭐에요?
+__label__tiger 타이거 모프가 뭔가요?
+__label__tiger 타이거 모프는 무슨 모프 인가요?
+__label__tiger 타이거 도마뱀의 특징이 뭐에요?
+__label__tiger 브린들 모프가 뭔가요?
+__label__tiger 브랜들 모프는 무슨 모프 인가요?
+__label__tiger 브린들 도마뱀의 특징이 뭐에요?
+__label__harlequin 할리퀸 모프가 뭔가요?
+__label__harlequin 할리퀸 모프는 무슨 모프 인가요?
+__label__harlequin 할리퀸 도마뱀의 특징이 뭐에요?
+__label__harlequin 익스트림 할리퀸 모프가 뭔가요?
+__label__harlequin 익스트림 할리퀸 모프는 무슨 모프 인가요?
+__label__harlequin 익스트림 할리퀸 도마뱀의 특징이 뭐에요?
+__label__harlequin 할리퀸이 뭔가요?
+__label__harlequin 할리퀸이 무슨 모프 인가요?
+__label__harlequin 할리퀸 특징이 뭐에요?
+__label__harlequin 익스트림 할리퀸이 뭔가요?
+__label__harlequin 익스트림 할리퀸은 무슨 모프 인가요?
+__label__harlequin 익스트림 할리퀸 특징이 뭐에요?
+__label__triharlequin 트익할이 뭔가요?
+__label__triharlequin 트익할이 무슨 모프 인가요?
+__label__triharlequin 트익할 특징이 뭐에요?
+__label__creamsicle 크림시클 모프가 뭔가요?
+__label__creamsicle 크림시클 모프는 무슨 모프 인가요?
+__label__creamsicle 크림시클 도마뱀의 특징이 뭐에요?
+__label__blond 블론드 모프가 뭔가요?
+__label__blond 블론드 모프는 무슨 모프 인가요?
+__label__blond 블론드 도마뱀의 특징이 뭐에요?
+__label__halloween 할로윈 모프가 뭔가요?
+__label__halloween 할로윈 모프는 무슨 모프 인가요?
+__label__halloween 할로윈 도마뱀의 특징이 뭐에요?
+__label__mocha 모카앤크림 모프가 뭔가요?
+__label__mocha 모카앤크림 모프는 무슨 모프 인가요?
+__label__mocha 모카앤크림 도마뱀의 특징이 뭐에요?
+__label__cream 크림온크림 모프가 뭔가요?
+__label__cream 크림온크림 모프는 무슨 모프 인가요?
+__label__cream 크림온크림 도마뱀의 특징이 뭐에요?
+__label__dalmatian 달마티안 모프가 뭔가요?
+__label__dalmatian 달마티안 모프는 무슨 모프 인가요?
+__label__dalmatian 달마티안 도마뱀의 특징이 뭐에요?
+__label__pinstriped 핀스트라이프 모프가 뭔가요?
+__label__pinstriped 핀스트라이프 모프는 무슨 모프 인가요?
+__label__pinstriped 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__dashed_pinstriped 대시 핀스트라이프 모프가 뭔가요?
+__label__dashed_pinstriped 대시 핀스트라이프 모프는 무슨 모프 인가요?
+__label__dashed_pinstriped 대시 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__parial_pinstriped 파셜 핀스트라이프 모프가 뭔가요?
+__label__parial_pinstriped 파셜 핀스트라이프 모프는 무슨 모프 인가요?
+__label__parial_pinstriped 파셜 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__full_pinstriped 풀 핀스트라이프 모프가 뭔가요?
+__label__full_pinstriped 풀 핀스트라이프 모프는 무슨 모프 인가요?
+__label__full_pinstriped 풀 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__reverse_pinstriped 리버스 핀스트라이프 모프가 뭔가요?
+__label__reverse_pinstriped 리버스 핀스트라이프 모프는 무슨 모프 인가요?
+__label__reverse_pinstriped 리버스 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__pantom_pinstriped 팬텀 핀스트라이프 모프가 뭔가요?
+__label__pantom_pinstriped 팬텀 핀스트라이프 모프는 무슨 모프 인가요?
+__label__pantom_pinstriped 팬텀 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__quad_pinstriped 쿼드 핀스트라이프 모프가 뭔가요?
+__label__quad_pinstriped 쿼드 핀스트라이프 모프는 무슨 모프 인가요?
+__label__quad_pinstriped 쿼드 핀스트라이프 도마뱀의 특징이 뭐에요?
+__label__striped 스트라이프 모프가 뭔가요?
+__label__striped 스트라이프 모프는 무슨 모프 인가요?
+__label__striped 스트라이프 도마뱀의 특징이 뭐에요?
+__label__white_fringed 화이트 프린지 모프가 뭔가요?
+__label__white_fringed 화이트 프린지 모프는 무슨 모프 인가요?
+__label__white_fringed 화이트 프린지 도마뱀의 특징이 뭐에요?
+__label__white_spot 화이트 스포트 모프가 뭔가요?
+__label__white_spot 화이트 스포트 모프는 무슨 모프 인가요?
+__label__white_spot 화이트 스포트 도마뱀의 특징이 뭐에요?
+__label__chevron 쉐브론 모프가 뭔가요?
+__label__chevron 쉐브론 모프는 무슨 모프 인가요?
+__label__chevron 쉐브론 도마뱀의 특징이 뭐에요?
+__label__crowned 크라운 모프가 뭔가요?
+__label__crowned 크라운 모프는 무슨 모프 인가요?
+__label__crowned 크라운 도마뱀의 특징이 뭐에요?
+__label__gargoyle 가고일 게코가 뭔가요?
+__label__gargoyle 가고일 게코는 어떤 종인가요?
+__label__gargoyle 가고일 게코 특징이 뭐에요?
+__label__hello 안녕
+__label__cappuccino 카푸치노가 무엇
+__label__cappuccino 카푸치노 모프 설명해줘
+__label__cappuccino 카푸치노 뭐야?
+__label__cappuccino 카푸치노 설명
+__label__frappuccino 프라푸치노 무엇
+__label__frappuccino 프라푸치노 모프 설명해줘
+__label__frappuccino 프라푸치노 뭐야?
+__label__frappuccino 프라푸치노 설명
+__label__super_gene 슈퍼 유전자 무엇
+__label__super_gene 슈퍼 유전자 모프 설명해줘
+__label__super_gene 슈퍼 유전자 뭐야?
+__label__super_gene 슈퍼 유전자 설명
+__label__super_gene 슈퍼유전자 무엇
+__label__super_gene 슈퍼유전자 모프 설명해줘
+__label__super_gene 슈퍼유전자 뭐야?
+__label__super_gene 슈퍼유전자 설명
+__label__super_gene 멜라니스틱 무엇
+__label__super_gene 멜라니스틱 모프 설명해줘
+__label__super_gene 멜라니스틱 뭐야?
+__label__super_gene 멜라니스틱 설명
+__label__axanthic 아잔틱 무엇
+__label__axanthic 아잔틱 모프 설명해줘
+__label__axanthic 아잔틱 뭐야?
+__label__axanthic 아잔틱 설명
+__label__lilly_white 릴리화이트 무엇
+__label__lilly_white 릴리화이트 모프 설명해줘
+__label__lilly_white 릴리화이트 뭐야?
+__label__lilly_white 릴리화이트 설명
+__label__lilly_white 릴리 화이트 무엇
+__label__lilly_white 릴리 화이트 모프 설명해줘
+__label__lilly_white 릴리 화이트 뭐야?
+__label__lilly_white 릴리 화이트 설명
+__label__sable 세이블 무엇
+__label__sable 세이블 모프 설명해줘
+__label__sable 세이블 뭐야?
+__label__sable 세이블 설명
+__label__dominant_recessive 우성과 열성 무엇
+__label__dominant_recessive 우성과 열성 설명해줘
+__label__dominant_recessive 우성과 열성 뭐야?
+__label__dominant_recessive 우성과 열성 설명
+__label__dominant_recessive 우성 열성 무엇
+__label__dominant_recessive 우성 열성 설명해줘
+__label__dominant_recessive 우성 열성 뭐야?
+__label__dominant_recessive 우성 열성 설명
